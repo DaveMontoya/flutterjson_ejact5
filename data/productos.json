@@ -1,0 +1,83 @@
+[
+		{
+			"id": 0,
+			"name": "iPhone 9",
+			"category": "smartphones",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"189",
+			"price":"99",
+			"discountPercentage": "12.96",
+			"rating": "4.69"
+		},
+		{
+			"id": 1,
+			"name": "iPhone X",
+			"category": "smartphones",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"199",
+			"price":"129",
+			"discountPercentage": "17.94",
+			"rating": "4.44"
+		},
+		{
+			"id": 2,
+			"name": "Xiaomi 5",
+			"category": "smartphones",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"199",
+			"price":"129",
+			"discountPercentage": "15.46",
+			"rating": "4.09"
+		},
+		{
+			"id": 3,
+			"name": "Alcatel 1",
+			"category": "Alcatel",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"199",
+			"price":"129",
+			"discountPercentage": "11.06",
+			"rating": "4.11"
+		},
+		{
+			"id": 4,
+			"name": "NK22",
+			"category": "NK",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"99",
+			"price":"129",
+			"discountPercentage": "18.00",
+			"rating": "4.75"
+		},
+		{
+			"id": 5,
+			"name": "Huawei P30",
+			"category": "Huawei",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"299",
+			"price":"129",
+			"discountPercentage": "10.00",
+			"rating": "3.91"
+		},
+		{
+			"id": 6,
+			"name": "Samsung X",
+			"category": "samsung",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"219",
+			"price":"129",
+			"discountPercentage": "12.10",
+			"rating": "4.99"
+		},
+		{
+			"id": 7,
+			"name": "OPPOF19",
+			"category": "Oppo",
+			"imageUrl": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg",
+			"oldPrice":"199",
+			"price":"129",
+			"discountPercentage": "15.50",
+			"rating": "4.01"
+		}
+]
+	
